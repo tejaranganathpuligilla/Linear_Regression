@@ -1,6 +1,6 @@
 # Linear_Regression
 Explanation of Linear Regression using  Ecommerce Dataset
-# Linear-Regression
+![WhatsApp Image 2021-05-17 at 11 46 07 PM](https://user-images.githubusercontent.com/82372055/118537119-2def3580-b76a-11eb-9b98-c7074a292184.jpeg)
 
 Linear regression is used to predict the continuous dependent variable using a given set of independent  
 
