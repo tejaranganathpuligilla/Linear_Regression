@@ -111,9 +111,9 @@ print(metrics.mean_absolute_error(y_test, predictions))
 print(metrics.mean_squared_error(y_test, predictions))
 print(np.sqrt(metrics.mean_squared_error(y_test, predictions)))
 ```
-####7.228148653430845
-####79.81305165097463
-####8.933815066978644
+#### 7.228148653430845
+#### 79.81305165097463
+#### 8.933815066978644
 
 the above values are the errors respectively
 
