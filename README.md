@@ -115,7 +115,7 @@ print(np.sqrt(metrics.mean_squared_error(y_test, predictions)))
 #### 79.81305165097463
 #### 8.933815066978644
 
-the above values are the errors respectively
+the above values are the mean_absolute error,mean_squared_error,root_mean_squared_errors respectively
 
 now lets check the coefficients of the data to get an solution for the given dataset 
 ```python
@@ -125,4 +125,4 @@ coef
 ```
 ![image](https://user-images.githubusercontent.com/82372055/118539367-f9c94400-b76c-11eb-9f40-b1c1d9e6ca22.png)
 
-### so we can see the users are spending more time on App so the the company must look after the contribution of spending more time on making website user friendly  
+### so we can see the users are spending more time on App so the the company must look after the contribution of spending more time on making website user friendly to increase the users
